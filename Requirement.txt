@@ -1,0 +1,5 @@
+This is Requirment of the app.
+
+color
+text
+etc..
