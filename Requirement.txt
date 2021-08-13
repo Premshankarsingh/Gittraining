@@ -6,3 +6,7 @@ etc..
 
 Dark Mode
 Official Calls
+
+Payment option
+Amount pay
+Amount Recieve
