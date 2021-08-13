@@ -3,3 +3,6 @@ This is Requirment of the app.
 color
 text
 etc..
+
+Dark Mode
+Official Calls
